@@ -1,1 +1,1 @@
-# SDS
+# Security of Distributed Software
